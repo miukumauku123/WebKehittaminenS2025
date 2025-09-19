@@ -1,0 +1,21 @@
+/*
+Author: Matias Kola
+Date: 2025-09-19
+*/
+body {
+    background-color: dimgray;
+}
+h1 {
+    color: chartreuse;
+    font-size: 64px;
+}
+p {
+    color: brown;
+}
+mark {
+    background-color: aquamarine;
+    color: cadetblue;
+}
+a {
+    color: black;
+}
