@@ -1,0 +1,51 @@
+/*
+Author: Matias Kola
+Date: 2025-10-03
+*/
+
+img {
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;   
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    font-family: "Monsterrat", sans-serif;
+    background-color: #272727;
+        color: #e5f4e3;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #101314;
+    padding: 5px 30px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #101314;
+    padding: 5px 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.media-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    gap: 20px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
