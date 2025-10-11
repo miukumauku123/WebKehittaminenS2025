@@ -39,7 +39,7 @@ footer {
     text-shadow: 2px 2px 4px black;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
 }
 
@@ -53,6 +53,7 @@ h3 {
 
 p {
     font-style: italic;
+    text-align: center;
 }
 
 section ul li {
